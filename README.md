@@ -27,9 +27,8 @@ It's a web game developed during my HTML, CSS and JavaScript training.
  If you liked the project or have any constructive criticism related to the project or want to get in touch for some other reason or just want to help the developers and the project, here are some options:
 	
 - 🌎 Share this repository with your friends!
-- 📷 Follow the [developer](https://linktr.ee/yagopeixinho) 
 - ⭐ If you liked the idea, you can give it a fork and a star.
-- 📬 Email the developments if you need something: yagopeixinho03@gmail.com
+- 📬 Email the developments if you need something: peixinhoyago@gmail.com
  
  <div align="center">
 
